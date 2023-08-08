@@ -7,7 +7,11 @@ period-3 and period-5 logistic map systems can synchronize to become period-4 wh
 interacting applied.
 
 ![image](https://github.com/tim32142000/two_interacting_logistic_map_systems/blob/master/figure/Figure_1.png)
+
 ![image](https://github.com/tim32142000/two_interacting_logistic_map_systems/blob/master/figure/Figure_2.png)
+
 ![image](https://github.com/tim32142000/two_interacting_logistic_map_systems/blob/master/figure/Figure_3.png)
+
 ![image](https://github.com/tim32142000/two_interacting_logistic_map_systems/blob/master/figure/Figure_4.png)
+
 ![image](https://github.com/tim32142000/two_interacting_logistic_map_systems/blob/master/figure/Figure_5.png)
